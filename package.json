@@ -1,0 +1,27 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Hello wrold app with express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncoolster/express-app.git"
+  },
+  "keywords": [
+    "express",
+    "hello-world"
+  ],
+  "author": "Charles Otieno",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/uncoolster/express-app/issues"
+  },
+  "homepage": "https://github.com/uncoolster/express-app#readme"
+}
